@@ -1,0 +1,42 @@
+body{
+    background-image: url(background.jpeg);
+}
+
+.main{
+height: 900px;
+margin-top: 100px;
+margin-bottom:100px ;
+margin-left: 100px;
+margin-right: 100px;
+background-color: rgb(36, 35, 35);
+display: flex;
+}
+
+.hover {
+margin-left:250px;
+margin-top: 0px;
+padding-bottom: 70px;
+display: flex;
+}
+img{
+  width: 600px;
+  height: 500px;
+}
+img:hover{
+  width:800px ;
+  height: 900px;
+}
+.paragraph p{
+  width: 1300px;
+  font-size: 30px;
+  color: white;
+  display: flex;
+}
+
+.paragraph h1{
+  font-size: 70px;
+  color: white;
+
+}
+
+ 
